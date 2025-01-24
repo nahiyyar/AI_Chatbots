@@ -1,12 +1,11 @@
 # AI Chatbots 
 
-This project is a simple web-based chatbot application that allows users to upload a JSON or PDF file and interact with the chatbot by asking questions.  
+This project is a simple web-based No code chatbot application that allows users to upload a JSON or PDF file and interact with the chatbot by asking questions.  
 
 ## Features  
 - **File Upload**: Users can upload a JSON or PDF file for the chatbot to process.  
 - **Chat Interface**: Users can type questions, and the chatbot responds based on the uploaded file or predefined logic.  
-- **Responsive Design**: The UI is clean, simple, and mobile-friendly.  
-
+- **Downloadable Model File**: You can download the model file and append the model in your code to get a faq chatbot model without coding.
 ---
 
 ## Project Structure  
