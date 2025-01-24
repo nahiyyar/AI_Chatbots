@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with {{ chatbot_name }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Chat with {{ chatbot_name }}</h1>
+        <div class="chat-box" id="chat-box"></div>
+        <form id="chatForm">
+            <input type="text" id="messageInput" placeholder="Ask me something..." autocomplete="off" required>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+    <h1>{{ chatbot_name }}</h1>
+    <button onclick="window.location.href='/download_model'">Download Model</button>
+    <script src="/static/script.js"></script>
+</body>
+</html>
