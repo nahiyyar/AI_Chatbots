@@ -20,4 +20,18 @@ This project is a simple web-based chatbot application that allows users to uplo
 1. Clone this repository:  
    ```bash  
    git clone https://github.com/your-username/chatbot-with-upload.git  
-   cd chatbot-with-upload  
+   cd chatbot-with-upload
+
+2. Download and Activate the Virtual env
+   ```bash
+   python -m venv (env name)
+   (env name)\Scripts\activate
+   
+3. ```bash
+   pip install -r requirement.txt
+
+4. Run app.py
+   ```bash
+   python app.py
+
+   
