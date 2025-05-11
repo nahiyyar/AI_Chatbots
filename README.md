@@ -27,10 +27,10 @@ This project is a simple web-based No code chatbot application that allows users
    (env name)\Scripts\activate
  
 3.Download Requirements
-    ```bash
+   ```bash
    pip install -r requirement.txt
 
-5. Run app.py
+4. Run app.py
    ```bash
    python app.py
 
