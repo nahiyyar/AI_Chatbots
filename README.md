@@ -29,7 +29,7 @@ This project is a simple web-based No code chatbot application that allows users
 3. ```bash
    pip install -r requirement.txt
    
-4.Run app.py
+ 4.Run app.py
    ```bash
    python app.py
 
