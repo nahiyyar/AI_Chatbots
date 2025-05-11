@@ -25,11 +25,12 @@ This project is a simple web-based No code chatbot application that allows users
    ```bash
    python -m venv (env name)
    (env name)\Scripts\activate
-   
-3. ```bash
+ 
+3.Download Requirements
+    ```bash
    pip install -r requirement.txt
 
-4. Run app.py
+5. Run app.py
    ```bash
    python app.py
 
